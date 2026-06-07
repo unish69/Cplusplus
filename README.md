@@ -8,7 +8,7 @@ A collection of C++ programs written during my 2nd semester, covering fundamenta
 
 | File | Description |
 |------|-------------|
-| `helloworld.cpp` | Prints "Hello World" to the screen — the classic first program |
+| `helloworld.cpp` | Prints "Hello World" to the screen, the classic first program |
 | `printtheinputvalue.cpp` | Takes a number as input from the user and displays it |
 | `averageoftwonumbers.cpp` | Takes two numbers as input and calculates their average |
 | `FarenheitToCelcius.cpp` | Converts a temperature value from Fahrenheit to Celsius |
